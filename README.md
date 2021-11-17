@@ -1,0 +1,2 @@
+# forMoney
+algorithm study
